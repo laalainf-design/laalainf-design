@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Laalain Fatima
 
-<!--
-**laalainf-design/laalainf-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence, Machine Learning, Data Science, and Cybersecurity. I enjoy building projects, learning new technologies, and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently
+- 🌱 Learning Machine Learning & AI
+- 💻 Building Python Projects
+- 🔐 Exploring Cybersecurity
+- 📚 Open to learning and collaboration
+
+## 🛠️ Skills
+- Python
+- C
+- Java 
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn 
+- Scikit-learn
+- Git & GitHub
+
+## 🎯 Goal
+To build impactful AI solutions and contribute to the tech community.
+
+⭐ Thanks for visiting my profile!
